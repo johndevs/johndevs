@@ -3,6 +3,18 @@ name: default
 type: docker
 
 steps:
+  - name: restore-cache
+    image: drillster/drone-volume-cache
+    settings:
+      restore: true
+      mount:
+        - /drone/src/.gradle-cache
+        - /drone/src/tincheck-ui/node_modules
+        - /drone/src/tincheck-ui/.gradle-cache
+    volumes:
+      - name: cache
+        path: /cache
+
   - name: generate-readme
     image: eclipse-temurin:17
     commands:
@@ -13,6 +25,18 @@ steps:
         from_secret: DEVSOAP_GRADLE_CACHE_EMAIL
       DEVSOAP_GRADLE_CACHE_KEY:
         from_secret: DEVSOAP_GRADLE_CACHE_KEY
+
+  - name: rebuild-cache
+    image: drillster/drone-volume-cache
+    settings:
+      rebuild: true
+      mount:
+        - /drone/src/.gradle-cache
+        - /drone/src/tincheck-ui/node_modules
+        - /drone/src/tincheck-ui/.gradle-cache
+    volumes:
+      - name: cache
+        path: /cache
 
   - name: publish
     image: drone/git
@@ -29,8 +53,30 @@ steps:
       GITHUB_PUSH_TOKEN:
         from_secret: GITHUB_PUSH_TOKEN
 
+  - name: slack-notification
+    image: plugins/slack
+    settings:
+      webhook: https://hooks.slack.com/services/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
+      channel: notion
+      username: drone
+      template: >
+        *{{#success build.status}}✔{{ else }}✘{{/success}} {{ uppercasefirst build.status }}: Build #{{ build.number }}*
+
+        Commit: <https://github.com/{{ repo.owner }}/{{ repo.name }}/commit/{{ build.commit }}|{{ truncate build.commit 8 }}>
+
+        Branch: <https://github.com/{{ repo.owner }}/{{ repo.name }}/commits/{{ build.branch }}|{{ build.branch }}>
+
+        <{{ build.link }}|Visit build page ↗>
+    when:
+      status: failure
+
 trigger:
   event:
     - cron
   branch:
     - master
+
+volumes:
+  - name: cache
+    host:
+      path: /tmp/devsoap-drone-cache
