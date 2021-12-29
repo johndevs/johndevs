@@ -30,8 +30,6 @@ steps:
       rebuild: true
       mount:
         - /drone/src/.gradle-cache
-        - /drone/src/tincheck-ui/node_modules
-        - /drone/src/tincheck-ui/.gradle-cache
     volumes:
       - name: cache
         path: /cache
