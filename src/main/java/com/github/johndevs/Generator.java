@@ -1,3 +1,4 @@
+
 package com.github.johndevs;
 
 import lombok.extern.slf4j.Slf4j;
@@ -17,9 +18,6 @@ public class Generator {
 
 	private static final TemplateEngine PROCESSOR = initProcessor();
 
-	private static final String VAR_HEADER_IMAGE = "/images/header.png";
-
-	
 	public static void main(String[] args) {
 		log.info("Updating readme...");
 		try (var writer = new FileWriter("README.md")) {
@@ -33,7 +31,6 @@ public class Generator {
 	private static IContext initContext() {
 		var context = new Context(Locale.ENGLISH);
 		context.setVariable("badges", new BadgeLinkProvider());
-		context.setVariable("headerImage", Base64ImageProvider.getImage(VAR_HEADER_IMAGE));
 		return context;
 	}
 

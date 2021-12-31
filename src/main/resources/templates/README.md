@@ -7,7 +7,7 @@
 
 ---
 
-![Header](data:image/png;base64,[(${headerImage})])
+![Header](static/header.png])
 
 ## 💬 About me
 
@@ -26,7 +26,7 @@ take the lead when we see there is something that needs to be improved.
 In 2021 I made a big move and moved to the South coast of Spain, more specifically Marbella, and started working on a 
 trading platform for [Skilling](https://skilling.com). I am still on that route today. 🌴
 
-I also run a small one-man shop in my spare time where I freelance and do small web-projects from time-to-time. It is 
+I also run a small one-man shop in my spare time when I freelance and do small web-projects from time-to-time. It is 
 called Devsoap and you can find its webpage over [here](https://devsoap.com). If you need a webapp or something code 
 related send me a message. I am always happy to help and if I can´t, I have a network of ex-colleagues and generally 
 good people I can refer you to.
@@ -55,7 +55,7 @@ listed as I cannot in good conscious recommend them to anyone.
 [(${badges.getLink("Ratpack")})]
 [(${badges.getLink("RabbitMQ")})]
 [(${badges.getLink("Vaadin")})]
-[(${badges.getLink("Google Web Toolki")})]
+[(${badges.getLink("Google Web Toolkit")})]
 [(${badges.getLink("Lombok")})]
 
 #### JavaScript
