@@ -27,9 +27,9 @@ In 2021 I made a big move and moved to the South coast of Spain, more specifical
 trading platform for [Skilling](https://skilling.com). I am still on that route today. 🌴
 
 I also run a small one-man shop in my spare time where I freelance and do small web-projects from time-to-time. It is 
-called Devsoap and you can find its webpage over [here](https://devsoap.com). <br/>
-If you need a webapp or something code related send me a message. I am always happy to help and if I can´t, I have a
-network of ex-colleagues and generally good people I can refer you to.
+called Devsoap and you can find its webpage over [here](https://devsoap.com). If you need a webapp or something code 
+related send me a message. I am always happy to help and if I can´t, I have a network of ex-colleagues and generally 
+good people I can refer you to.
 
 ## 🛠 Tech Stack
 
