@@ -14,7 +14,7 @@ dependencies {
 }
 
 application {
-    mainClass = 'Generator'
+    mainClass = 'com.github.johndevs.Generator'
 }
 
 java {

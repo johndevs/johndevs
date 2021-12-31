@@ -37,8 +37,9 @@ steps:
   - name: publish
     image: drone/git
     commands:
+      - cd build
       - git clone --depth=1 https://$${GITHUB_USERNAME}:$${GITHUB_PUSH_TOKEN}@github.com/johndevs/johndevs.git profile
-      - cp README.md profile/README.md
+      - cp ../README.md profile/README.md
       - cd profile
       - git diff -U0 | grep "diff" && git commit -am "Updated Readme" && git push origin master || echo "No change."
     environment:
@@ -46,7 +47,7 @@ steps:
         from_secret: GITHUB_USERNAME
       GITHUB_PUSH_TOKEN:
         from_secret: GITHUB_PUSH_TOKEN
-        
+
 trigger:
   event:
     - cron
