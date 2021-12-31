@@ -7,7 +7,7 @@
 
 ---
 
-![Header](/static/header.png])
+![Header](/static/header.png)
 
 ## 💬 About me
 
