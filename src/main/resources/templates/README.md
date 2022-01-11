@@ -84,6 +84,7 @@ listed as I cannot in good conscious recommend them to anyone.
 [(${badges.getLink("Gradle")})]
 [(${badges.getLink("Drone CI")})]
 [(${badges.getLink("Jenkins")})]
+[(${badges.getLink("TeamCity")})]
 [(${badges.getLink("Rancher")})]
 [(${badges.getLink("Travis")})]
 [(${badges.getLink("Docker")})]
@@ -96,6 +97,8 @@ listed as I cannot in good conscious recommend them to anyone.
 [(${badges.getLink("Slack")})]
 [(${badges.getLink("Github")})]
 [(${badges.getLink("Keycloak")})]
+[(${badges.getLink("Twitter")})]
+[(${badges.getLink("IMAP/POP")})]
 
 #### Amazon Web Services
 [(${badges.getLink("AWS Lambda", "amazon")})]
