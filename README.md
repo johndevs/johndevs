@@ -120,11 +120,15 @@ listed as I cannot in good conscious recommend them to anyone.
 ![DynamoDB](https://img.shields.io/badge/dynamodb-%231572B6.svg?style=for-the-badge&logo=dynamodb&logoColor=white)
 ![Presto](https://img.shields.io/badge/presto-%23323330.svg?style=for-the-badge&logo=presto&logoColor=white)
 
-#### Version Control
+#### Version Control + Services
 ![Git](https://img.shields.io/badge/git-%231572B6.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Subversion](https://img.shields.io/badge/subversion-%236DB33F.svg?style=for-the-badge&logo=subversion&logoColor=white)
 ![CVS](https://img.shields.io/badge/cvs-%231572B6.svg?style=for-the-badge&logo=cvs&logoColor=white)
+![Github](https://img.shields.io/badge/github-%23ED8B00.svg?style=for-the-badge&logo=github&logoColor=white)
+![Gerrit](https://img.shields.io/badge/gerrit-%23ED8B00.svg?style=for-the-badge&logo=gerrit&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%23323330.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Gitlab](https://img.shields.io/badge/gitlab-%236DB33F.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Design & Architecture tools
-![Figma](https://img.shields.io/badge/figma-%23E34F26.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Lucid Charts](https://img.shields.io/badge/lucid_charts-%23ED8B00.svg?style=for-the-badge&logo=lucid&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%236DB33F.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Lucid Charts](https://img.shields.io/badge/lucid_charts-%23E34F26.svg?style=for-the-badge&logo=lucid&logoColor=white)
