@@ -57,59 +57,74 @@ listed as I cannot in good conscious recommend them to anyone.
 ![Vaadin](https://img.shields.io/badge/vaadin-%231572B6.svg?style=for-the-badge&logo=vaadin&logoColor=white)
 ![Google Web Toolkit](https://img.shields.io/badge/google_web_toolkit-%231572B6.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Lombok](https://img.shields.io/badge/lombok-%23ED8B00.svg?style=for-the-badge&logo=lombok&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%231572B6.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![Quartz](https://img.shields.io/badge/quartz-%23ED8B00.svg?style=for-the-badge&logo=quartz&logoColor=white)
 
 #### JavaScript
-![Express.js](https://img.shields.io/badge/express.js-%231572B6.svg?style=for-the-badge&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/react.js-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23ED8B00.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23ED8B00.svg?style=for-the-badge&logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/react.js-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E34F26.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 #### C# / .Net
-![Blazor](https://img.shields.io/badge/blazor-%23E34F26.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%23323330.svg?style=for-the-badge&logo=blazor&logoColor=white)
+
+#### Python
+![Flask](https://img.shields.io/badge/flask-%231572B6.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%231572B6.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23ED8B00.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### IDE + Plugin ecosystem
+![Eclipse](https://img.shields.io/badge/eclipse-%23ED8B00.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![IDEA Intellij](https://img.shields.io/badge/idea_intellij-%236DB33F.svg?style=for-the-badge&logo=idea&logoColor=white)
+![Microsoft VS Code](https://img.shields.io/badge/microsoft_vs_code-%236DB33F.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### Build Pipeline
 ![Apache Maven](https://img.shields.io/badge/apache_maven-%23E34F26.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Ant](https://img.shields.io/badge/apache_ant-%23323330.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Gradle](https://img.shields.io/badge/gradle-%231572B6.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![Drone CI](https://img.shields.io/badge/drone_ci-%231572B6.svg?style=for-the-badge&logo=drone&logoColor=white)
+![Apache Ant](https://img.shields.io/badge/apache_ant-%231572B6.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Gradle](https://img.shields.io/badge/gradle-%236DB33F.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![Drone CI](https://img.shields.io/badge/drone_ci-%23E34F26.svg?style=for-the-badge&logo=drone&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%23ED8B00.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Rancher](https://img.shields.io/badge/rancher-%23ED8B00.svg?style=for-the-badge&logo=rancher&logoColor=white)
-![Travis](https://img.shields.io/badge/travis-%236DB33F.svg?style=for-the-badge&logo=travis&logoColor=white)
+![TeamCity](https://img.shields.io/badge/teamcity-%23E34F26.svg?style=for-the-badge&logo=teamcity&logoColor=white)
+![Rancher](https://img.shields.io/badge/rancher-%231572B6.svg?style=for-the-badge&logo=rancher&logoColor=white)
+![Travis](https://img.shields.io/badge/travis-%23323330.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%236DB33F.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/docker_compose-%23E34F26.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Hashicorp Terraform](https://img.shields.io/badge/hashicorp_terraform-%231572B6.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker_compose-%23323330.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Hashicorp Terraform](https://img.shields.io/badge/hashicorp_terraform-%23ED8B00.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 #### API Integrations
-![Customer.io](https://img.shields.io/badge/customer.io-%236DB33F.svg?style=for-the-badge&logo=customer.io&logoColor=white)
+![Customer.io](https://img.shields.io/badge/customer.io-%23ED8B00.svg?style=for-the-badge&logo=customer.io&logoColor=white)
 ![Segment.io](https://img.shields.io/badge/segment.io-%23E34F26.svg?style=for-the-badge&logo=segment.io&logoColor=white)
-![Slack](https://img.shields.io/badge/slack-%23ED8B00.svg?style=for-the-badge&logo=slack&logoColor=white)
-![Github](https://img.shields.io/badge/github-%23E34F26.svg?style=for-the-badge&logo=github&logoColor=white)
-![Keycloak](https://img.shields.io/badge/keycloak-%231572B6.svg?style=for-the-badge&logo=keycloak&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-%231572B6.svg?style=for-the-badge&logo=slack&logoColor=white)
+![Github](https://img.shields.io/badge/github-%23ED8B00.svg?style=for-the-badge&logo=github&logoColor=white)
+![Keycloak](https://img.shields.io/badge/keycloak-%23ED8B00.svg?style=for-the-badge&logo=keycloak&logoColor=white)
+![Twitter](https://img.shields.io/badge/twitter-%236DB33F.svg?style=for-the-badge&logo=twitter&logoColor=white)
+![IMAP/POP](https://img.shields.io/badge/imap/pop-%23323330.svg?style=for-the-badge&logo=imap/pop&logoColor=white)
 
 #### Amazon Web Services
 ![AWS Lambda](https://img.shields.io/badge/aws_lambda-%23323330.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![AWS S3](https://img.shields.io/badge/aws_s3-%236DB33F.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![AWS Batch](https://img.shields.io/badge/aws_batch-%23323330.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![AWS API Gateway](https://img.shields.io/badge/aws_api_gateway-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![AWS Cloud Watch](https://img.shields.io/badge/aws_cloud_watch-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![AWS Cognito](https://img.shields.io/badge/aws_cognito-%23E34F26.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS S3](https://img.shields.io/badge/aws_s3-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS Batch](https://img.shields.io/badge/aws_batch-%23E34F26.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/aws_api_gateway-%23323330.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS Cloud Watch](https://img.shields.io/badge/aws_cloud_watch-%23E34F26.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/aws_cognito-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/aws_ec2-%231572B6.svg?style=for-the-badge&logo=amazon&logoColor=white)
 ![AWS ECS](https://img.shields.io/badge/aws_ecs-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![AWS ElastiCache](https://img.shields.io/badge/aws_elasticache-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/aws_rds-%236DB33F.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS ElastiCache](https://img.shields.io/badge/aws_elasticache-%23323330.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/aws_rds-%23E34F26.svg?style=for-the-badge&logo=amazon&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/aws_sqs-%23323330.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![AWS SNS](https://img.shields.io/badge/aws_sns-%23323330.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/aws_sns-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
 
 #### Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23ED8B00.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/dynamodb-%23323330.svg?style=for-the-badge&logo=dynamodb&logoColor=white)
-![Presto](https://img.shields.io/badge/presto-%23E34F26.svg?style=for-the-badge&logo=presto&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23ED8B00.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/dynamodb-%231572B6.svg?style=for-the-badge&logo=dynamodb&logoColor=white)
+![Presto](https://img.shields.io/badge/presto-%23323330.svg?style=for-the-badge&logo=presto&logoColor=white)
 
 #### Version Control
-![Git](https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white)
-![Subversion](https://img.shields.io/badge/subversion-%231572B6.svg?style=for-the-badge&logo=subversion&logoColor=white)
-![CVS](https://img.shields.io/badge/cvs-%23ED8B00.svg?style=for-the-badge&logo=cvs&logoColor=white)
+![Git](https://img.shields.io/badge/git-%231572B6.svg?style=for-the-badge&logo=git&logoColor=white)
+![Subversion](https://img.shields.io/badge/subversion-%236DB33F.svg?style=for-the-badge&logo=subversion&logoColor=white)
+![CVS](https://img.shields.io/badge/cvs-%231572B6.svg?style=for-the-badge&logo=cvs&logoColor=white)
 
 ### Design & Architecture tools
-![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Lucid Charts](https://img.shields.io/badge/lucid_charts-%23E34F26.svg?style=for-the-badge&logo=lucid&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23E34F26.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Lucid Charts](https://img.shields.io/badge/lucid_charts-%23ED8B00.svg?style=for-the-badge&logo=lucid&logoColor=white)
