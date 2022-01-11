@@ -57,6 +57,8 @@ listed as I cannot in good conscious recommend them to anyone.
 [(${badges.getLink("Vaadin")})]
 [(${badges.getLink("Google Web Toolkit")})]
 [(${badges.getLink("Lombok")})]
+[(${badges.getLink("Hibernate")})]
+[(${badges.getLink("Quartz")})]
 
 #### JavaScript
 [(${badges.getLink("Express.js", "express")})]
@@ -65,6 +67,16 @@ listed as I cannot in good conscious recommend them to anyone.
 
 #### C# / .Net
 [(${badges.getLink("Blazor")})]
+
+#### Python
+[(${badges.getLink("Flask")})]
+[(${badges.getLink("TensorFlow")})]
+[(${badges.getLink("Pandas")})]
+
+#### IDE + Plugin ecosystem
+[(${badges.getLink("Eclipse")})]
+[(${badges.getLink("IDEA Intellij")})]
+[(${badges.getLink("Microsoft VS Code")})]
 
 #### Build Pipeline
 [(${badges.getLink("Apache Maven")})]
