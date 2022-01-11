@@ -120,10 +120,14 @@ listed as I cannot in good conscious recommend them to anyone.
 [(${badges.getLink("DynamoDB")})]
 [(${badges.getLink("Presto")})]
 
-#### Version Control
+#### Version Control + Services
 [(${badges.getLink("Git")})]
 [(${badges.getLink("Subversion")})]
 [(${badges.getLink("CVS")})]
+[(${badges.getLink("Github")})]
+[(${badges.getLink("Gerrit")})]
+[(${badges.getLink("Bitbucket")})]
+[(${badges.getLink("Gitlab")})]
 
 ### Design & Architecture tools
 [(${badges.getLink("Figma")})]
