@@ -37,6 +37,27 @@ I have worked with many tech-stacks over the years and have tried to gather as m
 For clarity though the most esoteric and historical stacks I have had the pleasure of working with are not 
 listed as I cannot in good conscious recommend them to anyone.
 
+## Certificates
+<a href="https://www.udemy.com/certificate/UC-6d4c0784-1553-4296-a3a2-95af467c0b92" title="Udemy - Artificial Intelligence I: Basics and Games in Java">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-6d4c0784-1553-4296-a3a2-95af467c0b92.jpg" style="width:20%"  alt="Artificial Intelligence I: Basics and Games in Java"/>
+</a>
+
+<a href="https://www.udemy.com/certificate/UC-4f96b555-5518-46e6-9aa7-84638b309de8" title="Udemy - Artificial Intelligence II: Neural Networks in Java">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-4f96b555-5518-46e6-9aa7-84638b309de8.jpg" style="width:20%"  alt="Artificial Intelligence II: Neural Networks in Java"/>
+</a>
+
+<a href="https://www.udemy.com/certificate/UC-298e2bed-704e-4f06-911e-a13b2f0d83a0" title="Udemy - Artificial Intelligence III: Neural Networks in Java">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-298e2bed-704e-4f06-911e-a13b2f0d83a0.jpg" style="width:20%"  alt="Artificial Intelligence III: Neural Networks in Java"/>
+</a>
+
+<a href="https://www.udemy.com/certificate/UC-b41ac9ea-c670-4a46-a2de-28f7b6c66b12" title="Udemy - Learn Blockchain Technology & Cryptocurrency in Java">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b41ac9ea-c670-4a46-a2de-28f7b6c66b12.jpg" style="width:20%"  alt="Learn Blockchain Technology & Cryptocurrency in Java"/>
+</a>
+
+
+
+
+
 ### Languages  
 
 ![Java](https://img.shields.io/badge/java-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white)

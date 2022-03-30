@@ -37,6 +37,15 @@ I have worked with many tech-stacks over the years and have tried to gather as m
 For clarity though the most esoteric and historical stacks I have had the pleasure of working with are not 
 listed as I cannot in good conscious recommend them to anyone.
 
+## Certificates
+[(${udemy.getLink("Artificial Intelligence I: Basics and Games in Java", "UC-6d4c0784-1553-4296-a3a2-95af467c0b92")})]
+[(${udemy.getLink("Artificial Intelligence II: Neural Networks in Java", "UC-4f96b555-5518-46e6-9aa7-84638b309de8")})]
+[(${udemy.getLink("Artificial Intelligence III: Neural Networks in Java", "UC-298e2bed-704e-4f06-911e-a13b2f0d83a0")})]
+[(${udemy.getLink("Learn Blockchain Technology & Cryptocurrency in Java", "UC-b41ac9ea-c670-4a46-a2de-28f7b6c66b12")})]
+
+
+
+
 ### Languages  
 
 [(${badges.getLink("Java")})]
