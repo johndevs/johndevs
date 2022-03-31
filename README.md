@@ -54,8 +54,15 @@ listed as I cannot in good conscious recommend them to anyone.
     <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b41ac9ea-c670-4a46-a2de-28f7b6c66b12.jpg" style="width:20%"  alt="Learn Blockchain Technology & Cryptocurrency in Java"/>
 </a>
 
+<a href="https://certificates.mooc.fi/validate/095f25119z4" title="Helsinki University - Elements of AI">
+    <img src="https://certificates.mooc.fi/validate/095f25119z4" style="width:20%"  alt="Elements of AI"/>
+</a>
 
+<a href="https://certificates.mooc.fi/validate/jf8nmfxsbrq" title="Helsinki University - Introduction to Cyber Security">
+    <img src="https://certificates.mooc.fi/validate/jf8nmfxsbrq" style="width:20%"  alt="Introduction to Cyber Security"/>
+</a>
 
+<img src="/static/spring-cert.png" style="width:20%"  alt="Spring Professional"/>
 
 
 ### Languages  

@@ -31,7 +31,7 @@ public class Generator {
 	private static IContext initContext() {
 		var context = new Context(Locale.ENGLISH);
 		context.setVariable("badges", new BadgeLinkProvider());
-		context.setVariable("udemy", new UdemyLinkProvider());
+		context.setVariable("certs", new CertificateLinkProvider());
 		return context;
 	}
 
