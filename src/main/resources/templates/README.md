@@ -99,6 +99,8 @@ listed as I cannot in good conscious recommend them to anyone.
 [(${badges.getLink("Keycloak")})]
 [(${badges.getLink("Twitter")})]
 [(${badges.getLink("IMAP/POP")})]
+[(${badges.getLink("Hasura")})]
+
 
 #### Amazon Web Services
 [(${badges.getLink("AWS Lambda", "amazon")})]
