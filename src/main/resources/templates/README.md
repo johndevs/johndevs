@@ -94,6 +94,7 @@ listed as I cannot in good conscious recommend them to anyone.
 #### API Integrations
 [(${badges.getLink("Customer.io")})]
 [(${badges.getLink("Segment.io")})]
+[(${badges.getLink("Snipcart")})]
 [(${badges.getLink("Slack")})]
 [(${badges.getLink("Github")})]
 [(${badges.getLink("Keycloak")})]
