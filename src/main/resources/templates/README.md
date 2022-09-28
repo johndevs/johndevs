@@ -113,6 +113,7 @@ listed as I cannot in good conscious recommend them to anyone.
 [(${badges.getLink("AWS EC2", "amazon")})]
 [(${badges.getLink("AWS ECS", "amazon")})]
 [(${badges.getLink("AWS ElastiCache", "amazon")})]
+[(${badges.getLink("AWS Elasticsearch", "amazon")})]
 [(${badges.getLink("AWS RDS", "amazon")})]
 [(${badges.getLink("AWS SQS", "amazon")})]
 [(${badges.getLink("AWS SNS", "amazon")})]
