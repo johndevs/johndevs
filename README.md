@@ -3,8 +3,7 @@
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-15.5k-blue?style=social&logo=linkedin)](https://linkedin.com/john.ahlroos)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jatwitt?style=social)]()
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCxxbd2Zf6Op9fThLPSZMGg?style=social)](https://twitter.com/jatwitt)
-[![GitHub followers](https://img.shields.io/github/followers/johndevs?style=social)](https://https://github.com/johndevs)
-
+[![GitHub followers](https://img.shields.io/github/followers/johndevs?style=social)](https://https://github.com/johndevs) <a rel="me" href="https://social.ahlroos.me/@john">![Mastodon followers](https://img.shields.io/mastodon/follow/109329619852609648?domain=https%3A%2F%2Fsocial.ahlroos.me&style=social)</a>
 ---
 
 ![Header](/static/header.png)
