@@ -77,7 +77,7 @@ listed as I cannot in good conscious recommend them to anyone.
 ![IDEA Intellij](https://img.shields.io/badge/idea_intellij-%236DB33F.svg?style=for-the-badge&logo=idea&logoColor=white)
 ![Microsoft VS Code](https://img.shields.io/badge/microsoft_vs_code-%236DB33F.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
-#### Build Pipeline
+#### Infrastructure + CI/CD
 ![Apache Maven](https://img.shields.io/badge/apache_maven-%23E34F26.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Ant](https://img.shields.io/badge/apache_ant-%231572B6.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-%236DB33F.svg?style=for-the-badge&logo=gradle&logoColor=white)
