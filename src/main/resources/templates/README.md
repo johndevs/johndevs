@@ -77,7 +77,7 @@ listed as I cannot in good conscious recommend them to anyone.
 [(${badges.getLink("IDEA Intellij")})]
 [(${badges.getLink("Microsoft VS Code")})]
 
-#### Build Pipeline
+#### Infrastructure + CI/CD
 [(${badges.getLink("Apache Maven")})]
 [(${badges.getLink("Apache Ant")})]
 [(${badges.getLink("Gradle")})]
