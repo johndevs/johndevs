@@ -50,6 +50,8 @@ listed as I cannot in good conscious recommend them to anyone.
 
 #### Java
 [(${badges.getLink("Spring Framework")})]
+[(${badges.getLink("Spring Boot")})]
+[(${badges.getLink("Spring Reactive")})]
 [(${badges.getLink("Micronaut")})]
 [(${badges.getLink("Ratpack")})]
 [(${badges.getLink("RabbitMQ")})]
@@ -58,6 +60,12 @@ listed as I cannot in good conscious recommend them to anyone.
 [(${badges.getLink("Lombok")})]
 [(${badges.getLink("Hibernate")})]
 [(${badges.getLink("Quartz")})]
+
+#### Java Testing
+[(${badges.getLink("Junit")})]
+[(${badges.getLink("Cucumber")})]
+[(${badges.getLink("Spock")})]
+[(${badges.getLink("TestContainers")})]
 
 #### JavaScript
 [(${badges.getLink("Express.js", "express")})]
@@ -84,6 +92,7 @@ listed as I cannot in good conscious recommend them to anyone.
 [(${badges.getLink("Drone CI")})]
 [(${badges.getLink("Jenkins")})]
 [(${badges.getLink("TeamCity")})]
+[(${badges.getLink("GoCD")})]
 [(${badges.getLink("Rancher")})]
 [(${badges.getLink("Travis")})]
 [(${badges.getLink("Docker")})]
@@ -100,7 +109,6 @@ listed as I cannot in good conscious recommend them to anyone.
 [(${badges.getLink("Twitter")})]
 [(${badges.getLink("IMAP/POP")})]
 [(${badges.getLink("Hasura")})]
-
 
 #### Amazon Web Services
 [(${badges.getLink("AWS Lambda", "amazon")})]
