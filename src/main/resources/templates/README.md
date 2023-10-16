@@ -1,9 +1,9 @@
 # Hi, I'm John Ahlroos 👋
 
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-15.5k-blue?style=social&logo=linkedin)](https://linkedin.com/john.ahlroos)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jatwitt?style=social)]()
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109329619852609648?domain=https%3A%2F%2Fsocial.ahlroos.me)]()
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCxxbd2Zf6Op9fThLPSZMGg?style=social)](https://twitter.com/jatwitt)
-[![GitHub followers](https://img.shields.io/github/followers/johndevs?style=social)](https://https://github.com/johndevs) <a rel="me" href="https://social.ahlroos.me/@john">![Mastodon followers](https://img.shields.io/mastodon/follow/109329619852609648?domain=https%3A%2F%2Fsocial.ahlroos.me&style=social)</a>
+[![GitHub followers](https://img.shields.io/github/followers/johndevs?style=social)](https://https://github.com/johndevs) 
 ---
 
 ![Header](/static/header.png)
@@ -24,11 +24,6 @@ take the lead when we see there is something that needs to be improved.
 
 In 2021 I made a big move and moved to the South coast of Spain, more specifically Marbella, and started working on a 
 trading platform for [Skilling](https://skilling.com). I am still on that route today. 🌴
-
-I also run a small one-man shop in my spare time when I freelance and do small web-projects from time-to-time. It is 
-called Devsoap and you can find its webpage over [here](https://devsoap.com). If you need a webapp or something code 
-related send me a message. I am always happy to help and if I can´t, I have a network of ex-colleagues and generally 
-good people I can refer you to.
 
 ## 🛠 Tech Stack
 
