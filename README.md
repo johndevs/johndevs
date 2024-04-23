@@ -8,6 +8,8 @@
 
 ![Header](/static/header.png)
 
+#### Note: My Github profile is currently archived. For newer projects https://code.devsoap.com/john
+
 ## 💬 About me
 
 I am *John Ahlroos*, a software engineer with a long history in building web applications and working with Open 
